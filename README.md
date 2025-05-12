@@ -1,5 +1,8 @@
 # 📍 OSINT Geolocalização — Guia em Português
 
+![Geosint](Geosint.png)
+
+
 Este repositório reúne uma tradução completa, organizada e comentada de um vasto conjunto de técnicas, ferramentas e referências voltadas para OSINT com foco em geolocalização. Este conteúdo pode ser amplamente compartilhado por investigadores digitais, e foi adaptador ao português do Brasil.
 
 O conteúdo original, amplamente compartilhado por investigadores digitais, foi adaptado para o português do Brasil, mantendo a estrutura original e enriquecendo com explicações que facilitam o uso prático.
